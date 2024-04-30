@@ -18,4 +18,4 @@
           
 <img style="width: 80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-<img style="width: 80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python312/python312s-original.svg" />
+<img style="width: 80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
